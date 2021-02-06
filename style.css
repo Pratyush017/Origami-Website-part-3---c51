@@ -1,0 +1,30 @@
+    h1 {
+         color: #ff9595;
+         font-family:cursive;
+         font-style: italic;
+       }
+       body{
+
+         background-color: #ad0000;
+       }
+
+     h3{
+         color: #db09a7;
+         font-style: oblique;
+     }
+     p{
+         color: #51ff00;
+         font-style: italic;
+     }
+     li{
+       color: #ffd093;
+       font-style: italic;
+     }
+     i{
+       color: #9dff00;
+       font-style: initial;
+
+     }
+
+    
+     
